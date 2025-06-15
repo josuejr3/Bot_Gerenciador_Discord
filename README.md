@@ -1,4 +1,4 @@
-# discord_bot_project
+# Bot administrador de servidor Discord
  
 Este é um projeto de um bot para Discord, desenvolvido com o objetivo de realizar a autenticação de alunos de uma Instituição em um servidor.
 
